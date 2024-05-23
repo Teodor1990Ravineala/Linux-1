@@ -1,0 +1,18 @@
+   0 mkdir -p /home/animals /home/animals/dogs /home/animals/cats /home/animals/fish /home/humans /home/planets
+   1 touch /home/animals/dogs/pluto /home/animals/cats/garfield /home/animals/fish/nemo /tmp/adam /tmp/evA /opt/Mercury /opt/Venus /opt/Mars opt/Jupiter
+   2 touch /opt/Jupiter
+   3 mv /opt/Mercury /home/planets/Mercury /opt/Jupiter /home/planets/Jupiter /opt/Mars /home/planets/Mars /opt/Venus /home/planets/Venus 
+   4 mv /opt/Mercury /home/planets/Mercury
+   5 mv /opt/Jupiter /home/planets/Jupiter
+   6 mv /opt/Mars /home/planets/Mars
+   7 mv /opt/Venus /home/planets/Venus
+   8 ls
+   9 ls /homw/planets
+  10 ls /homw/planets/
+  11 ls /home/planets/
+  12 cp /tmp/adam /home/humans/adam
+  13 mv /tmp/evA /opt/eve
+  14 mv /opt/eve /home/humans/eve
+  15 ls /home/humans
+  16 history
+  17 history > history.txt
